@@ -23,8 +23,6 @@ function verinfod() {
   vant = document.getElementById("antecedentes");
   vant.style.background = 'none';
 
-  elementoArticle = document.getElementsByTagName("article");
-  elementoArticle.style.borde = "0px 10px 10px 10px";
 }
 
 // evento captura click formacion
